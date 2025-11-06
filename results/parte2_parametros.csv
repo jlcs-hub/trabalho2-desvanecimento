@@ -1,0 +1,7 @@
+Parametro,20_taps,8_taps
+Mean Excess Delay (ns),162.66040754722218,157.81409349472517
+RMS Delay Spread (ns),117.71910389475985,110.31204429870031
+Maximum Excess Delay (ns),400.0,350.0
+Number of Taps,20.0,8.0
+Delay Range Min (ns),12.5,12.5
+Delay Range Max (ns),400.0,350.0
