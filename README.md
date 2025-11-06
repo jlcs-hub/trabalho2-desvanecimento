@@ -258,19 +258,6 @@ Ver `VALIDACAO_RESULTADOS.md` para detalhes.
 
 ---
 
-## Status do Projeto
-
-- [x] Parte I: Distribuições Estatísticas - COMPLETO
-- [x] Parte II: Parâmetros do Canal - COMPLETO
-- [x] Parte III: Modelo Saleh-Valenzuela - COMPLETO
-- [x] Notebooks Jupyter - COMPLETO
-- [x] Validação dos Resultados - COMPLETO
-- [x] Documentação - COMPLETO
-
-**Taxa de conclusão:** 100% ✅
-
----
-
 ## Autor
 
 **João Lucas de Castro Santos**
